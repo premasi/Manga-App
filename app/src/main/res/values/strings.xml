@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Manga App</string>
+    <string name="asura_scans">Asura Scans</string>
+    <string name="image">Image</string>
+    <string name="title">Title</string>
+    <string name="failed_to_load">Manga tidak berhasil ditampilkan</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="notif_page_1">It\'s already in first page</string>
+    <string name="flame_scans">Flame Scans</string>
+    <string name="alpha_scans">Alpha Scans</string>
+    <string name="list_chapter">List Chapter</string>
+    <string name="chapter_failed_to_load">Chapter tidak bisa ditampilkan</string>
+    <string name="title_activity_chapter">ChapterActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
