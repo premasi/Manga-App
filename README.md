@@ -14,9 +14,3 @@ Manga App merupakan sebuah aplikasi untuk membaca manga secara mobile dengan mem
 - Installation
   - Download the APK
   - Install the APK
- 
-- Register
-  - Register your full name, email address, & password
-
-- Login
-  - Enter your email address & password that already registrated
